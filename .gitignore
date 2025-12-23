@@ -1,0 +1,62 @@
+# Compiled object files
+*.o
+*.obj
+*.out
+
+# Executables
+*.exe
+*.app
+*.so
+*.dylib
+*.dll
+
+*.out
+
+# Preprocessor output
+*.i
+*.ii
+
+# Assembly output
+*.s
+*.asm
+
+# Debug files
+*.dSYM/
+*.su
+*.gch
+*.pch
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Build directories
+build/
+dist/
+cmake-build-debug/
+cmake-build-release/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Dependencies
+node_modules/
+.env
+.env.local
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
